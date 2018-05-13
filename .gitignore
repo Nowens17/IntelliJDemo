@@ -26,12 +26,3 @@ hs_err_pid*
 
 .idea
 IntelliJDemo.iml
-
-
-.gitignore
-.idea/description.html
-.idea/misc.xml
-.idea/modules.xml
-.idea/project-template.xml
-.idea/workspace.xml
-src/
